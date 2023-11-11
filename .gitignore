@@ -1,0 +1,12 @@
+# Ignore Poetry dependencies
+poetry.lock
+pyproject.toml
+
+# Ignore Replit configuration file
+.replit
+
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore specific directory
+.pythonlibs/
